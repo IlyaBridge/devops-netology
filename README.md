@@ -6,3 +6,5 @@
 - Файлы планов выполнения (*.tfplan)
 - Файлы переопределения CLI-конфигурации (override.tf, override.tf.json)
 - Директории с модулями (.terraform/modules/)
+
+### Hotfix in progress
